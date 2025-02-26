@@ -1,0 +1,1 @@
+"tensorflow\npandas\nrequests\nscikit-learn\nmatplotlib" 
